@@ -2,7 +2,7 @@
 
 /* Navigation Bar */
 
-	.navbar{
+.navbar{
 	background-color:#768C97;
 	height: 60px;
 	width: 100%;
@@ -196,6 +196,7 @@ h2{
 	list-style-type:none;
 	text-align: left;
 	transform:translate(-20px,0);
+	float:left;
 }
 
 li{
