@@ -178,7 +178,7 @@ h2{
 	display:inline-block;
 	position:relative;
 	transform: translate(-300px, 0px);
-	
+	float: left;
 	
 }
 
@@ -190,12 +190,13 @@ h2{
 	font-size: 16px;
 	margin-right: auto;
 	margin-left: auto;
+	float: left;
 }
 
 .education_ul{
 	list-style-type:none;
 	text-align: left;
-	transform:translate(-20px,0);
+	transform:translate(-200px,0);
 	float:left;
 }
 
