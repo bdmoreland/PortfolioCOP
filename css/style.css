@@ -177,7 +177,7 @@ h2{
 	text-align: center;
 	display:inline-block;
 	position:relative;
-	transform: translate(-300px, 0px);
+	
 }
 
 .education_li{
@@ -188,12 +188,13 @@ h2{
 	font-size: 16px;
 	margin-right: auto;
 	margin-left: auto;
+	transform: translate(-300px, 0px);
 }
 
 .education_ul{
 	list-style-type:none;
 	text-align: left;
-	transform:translate(-20px,0);
+	
 }
 
 li{
