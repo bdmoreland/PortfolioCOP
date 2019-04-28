@@ -177,7 +177,7 @@ h2{
 	text-align: center;
 	display:inline-block;
 	position:relative;
-	
+	float: left;
 }
 
 .education_li{
